@@ -1,4 +1,4 @@
-![logo](./images/icon.svg)
+![logo](./images/logo.png)
 
 # ES6 教程
 
